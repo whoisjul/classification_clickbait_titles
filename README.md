@@ -1,7 +1,7 @@
 # Кликебйт Детектор Clickbait Detector
 ### Классификатор заголовков / classifier of titles 
 
-![Alt text](logo-1.png)
+![Alt text](logo_1.png)
 
 # :blue_book: Содержание
 + О проекте
