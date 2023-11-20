@@ -1,5 +1,6 @@
 # Кликебйт Детектор Clickbait Detector
 ### Классификатор заголовков / classifier of titles 
+![](https://img.shields.io/badge/StopClickBait-blue)
 
 ![Alt text](logo_1.png)
 
