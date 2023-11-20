@@ -1,5 +1,8 @@
 # Кликебйт Детектор Clickbait Detector
 ### Классификатор заголовков / classifier of titles 
+
+![Alt text](logo-1.png))
+
 # :notebook_with_decorative_cover: Содержание
 + О проекте
 + Скоро...
