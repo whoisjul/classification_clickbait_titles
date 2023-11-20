@@ -3,7 +3,7 @@
 
 ![Alt text](logo-1.png)
 
-# :notebook_with_decorative_cover: Содержание
+# :blue_book: Содержание
 + О проекте
 + Скоро...
 + Поддержать проект
