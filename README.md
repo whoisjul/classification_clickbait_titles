@@ -6,7 +6,6 @@
 # :notebook_with_decorative_cover: Содержание
 + О проекте
 + Скоро...
-+ Поддержать проект
 + Проект на kaggle
 
 # :cherry_blossom: О проекте
