@@ -17,9 +17,6 @@
 # :thought_balloon: Скоро...
 - [X] Плагин
 - [X] Распознавание кликбейта по тексту и обложке статьи 
-  
-# :heart_decoration: Поддержать проект
-Поставьте лайк, нам будет приятно:)
 
 # :ribbon: Проект на kaggle
 [Новостные заголовки/News titles RU](https://www.kaggle.com/datasets/anzerone/clickbait-titles-ru)
